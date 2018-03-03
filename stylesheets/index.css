@@ -1,0 +1,24 @@
+h1 {margin-left:30px;}
+#app {margin-left:50px;}
+#section1 {}
+#section2 {margin-top: 50px;}
+.key {font-weight:bold;}
+.value {min-height:20px; margin-bottom: 5px;}
+.btn {
+  -webkit-transition-duration: 0.4s; /* Safari */
+  transition-duration: 0.4s;
+  border-radius: 3px;
+  background-color: #008CBA; /* Blue */
+  border: none;
+  color: white;
+  padding: 12px 12px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 10px;
+}
+
+.btn:hover {
+  background-color: #008CBA; /* Blue */
+  color: white;
+}
